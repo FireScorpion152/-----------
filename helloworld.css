@@ -1,0 +1,13 @@
+h1{
+		color: red;
+		background-color: blue ;
+
+}
+p{
+		border: 10px solid green;
+		margin: 100px 100px;
+}
+ul{
+		padding: 70px 70px;
+		border: 10px dashed blueviolet;
+}
